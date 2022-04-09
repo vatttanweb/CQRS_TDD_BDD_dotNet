@@ -1,0 +1,17 @@
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\bin\Debug\netcoreapp2.2\CQRSwithBDDtest.deps.json
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\bin\Debug\netcoreapp2.2\CQRSwithBDDtest.runtimeconfig.json
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\bin\Debug\netcoreapp2.2\CQRSwithBDDtest.runtimeconfig.dev.json
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\bin\Debug\netcoreapp2.2\CQRSwithBDDtest.dll
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\bin\Debug\netcoreapp2.2\CQRSwithBDDtest.pdb
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\bin\Debug\netcoreapp2.2\CQRSwithBDD.dll
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\bin\Debug\netcoreapp2.2\CQRSwithBDD.pdb
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\obj\Debug\netcoreapp2.2\CQRSwithBDDtest.csprojAssemblyReference.cache
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\obj\Debug\netcoreapp2.2\CQRSwithBDDtest.csproj.CoreCompileInputs.cache
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\obj\Debug\netcoreapp2.2\CQRSwithBDDtest.AssemblyInfoInputs.cache
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\obj\Debug\netcoreapp2.2\CQRSwithBDDtest.AssemblyInfo.cs
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\obj\Debug\netcoreapp2.2\CQRSwithBDDtest.csproj.CopyComplete
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\obj\Debug\netcoreapp2.2\CQRSwithBDDtest.dll
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDDtest\obj\Debug\netcoreapp2.2\CQRSwithBDDtest.pdb

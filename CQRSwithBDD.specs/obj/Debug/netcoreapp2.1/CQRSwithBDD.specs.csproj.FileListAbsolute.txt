@@ -1,0 +1,4 @@
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD.specs\obj\Debug\netcoreapp2.1\CQRSwithBDD.specs.csprojAssemblyReference.cache
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD.specs\obj\Debug\netcoreapp2.1\CQRSwithBDD.specs.csproj.CoreCompileInputs.cache
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD.specs\obj\Debug\netcoreapp2.1\CQRSwithBDD.specs.AssemblyInfoInputs.cache
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD.specs\obj\Debug\netcoreapp2.1\CQRSwithBDD.specs.AssemblyInfo.cs

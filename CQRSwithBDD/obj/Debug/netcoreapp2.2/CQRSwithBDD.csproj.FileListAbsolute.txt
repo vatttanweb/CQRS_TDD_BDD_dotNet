@@ -1,0 +1,14 @@
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\obj\Debug\netcoreapp2.2\CQRSwithBDD.csproj.CoreCompileInputs.cache
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\obj\Debug\netcoreapp2.2\CQRSwithBDD.AssemblyInfoInputs.cache
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\obj\Debug\netcoreapp2.2\CQRSwithBDD.AssemblyInfo.cs
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\bin\Debug\netcoreapp2.2\CQRSwithBDD.deps.json
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\bin\Debug\netcoreapp2.2\CQRSwithBDD.runtimeconfig.json
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\bin\Debug\netcoreapp2.2\CQRSwithBDD.runtimeconfig.dev.json
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\bin\Debug\netcoreapp2.2\CQRSwithBDD.dll
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\obj\Debug\netcoreapp2.2\CQRSwithBDD.csprojAssemblyReference.cache
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\obj\Debug\netcoreapp2.2\CQRSwithBDD.RazorAssemblyInfo.cache
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\obj\Debug\netcoreapp2.2\CQRSwithBDD.RazorAssemblyInfo.cs
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\obj\Debug\netcoreapp2.2\CQRSwithBDD.RazorTargetAssemblyInfo.cache
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\bin\Debug\netcoreapp2.2\CQRSwithBDD.pdb
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\obj\Debug\netcoreapp2.2\CQRSwithBDD.dll
+C:\Users\A.Dizaji\source\repos\CQRSwithBDD\CQRSwithBDD\obj\Debug\netcoreapp2.2\CQRSwithBDD.pdb
